@@ -7,20 +7,20 @@ import Work from "../templates/work";
 export default class WorkSection extends Component {
   render() {
     return (
-      <div class="section-dark my-work" id="my-work">
-        <div class="container">
+      <div className="section-dark my-work" name="myWorks">
+        <div className="container">
           <div
-            class="columns is-multiline"
+            className="columns is-multiline"
             data-aos="fade-in"
             data-aos-easing="linear"
           >
-            <div class="column is-12">
-              <h1 class="title has-text-centered section-title">
+            <div className="column is-12">
+              <h1 className="title has-text-centered section-title">
                 Meus Trabalhos
               </h1>
             </div>
             {JSONWorks.content.map(json => (
-              <Work content={json} />
+              <Work content={json} key={json.id} />
             ))}
           </div>
         </div>

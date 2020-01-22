@@ -4,6 +4,9 @@
   "version": "1.8.0",
   "author": "Aman Mittal <amandeepmittal@live.com>",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
     "bulma": "^0.8.0",
     "gatsby": "^2.16.5",
     "gatsby-image": "^2.2.29",
@@ -21,7 +24,8 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
-    "react-icons": "^3.7.0"
+    "react-icons": "^3.7.0",
+    "react-scroll": "^1.7.14"
   },
   "keywords": [
     "gatsby",

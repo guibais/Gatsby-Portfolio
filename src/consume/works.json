@@ -4,15 +4,50 @@
       "id": 1,
       "title": "Aplicativo UMC",
       "languages": "Android(JAVA)",
-      "url": "www.google.com",
-      "image": "https://picsum.photos/320/180?image=0"
+      "url": "https://play.google.com/store/apps/details?id=com.heavyfox.guibais.umc&hl=pt_BR",
+      "image": "../../umc-app.jpg"
     },
     {
       "id": 2,
-      "title": "Aplicativo UMC",
-      "languages": "Android(JAVA)",
-      "url": "www.google.com",
-      "image": "https://picsum.photos/320/180?image=0"
+      "title": "Tag Company",
+      "languages": "Bootstrap, JQuery",
+      "url": "https://www.tagcompany.net",
+      "image": "../../tagcompany.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sistema Horsecs (Offline)",
+      "languages": "Angular 2, Nodejs, MongoDB",
+      "url": "#",
+      "image": "../../sistema.horsecs.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Phaynell",
+      "languages": "Wordpress",
+      "url": "https://www.phaynell.com.br",
+      "image": "../../phaynell.jpg"
+    },
+    {
+      "id": 5,
+      "title": "NBHA",
+      "languages": "Wordpress",
+      "url": "https://www.nbhabrazil.com.br",
+      "image": "../../nbha.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Horse Club System (Offline)",
+      "languages": "Nuxt, Vuejs, Nodejs, MongoDB",
+      "url": "#",
+      "image": "../../horsecs.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Graça Oliveira - Psicóloga",
+      "languages": "Wordpress",
+      "url": "https://gracapsicologa.com.br/",
+      "image": "../../gracapsicologa.jpg"
     }
   ]
 }

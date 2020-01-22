@@ -5,9 +5,9 @@ import "./style.scss";
 import Emoji from "./emoji";
 
 const Footer = () => (
-  <div class="footer">
+  <div className="footer">
     <p>
-      <strong class="white">Criado</strong> Por Guilherme Bais Sousa.
+      <strong className="white">Criado Por</strong> Guilherme Bais Sousa.
     </p>
   </div>
 );
