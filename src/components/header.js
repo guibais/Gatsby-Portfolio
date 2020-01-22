@@ -3,11 +3,6 @@ import { FaGithub } from "react-icons/fa";
 
 import "./style.scss";
 
-import gatsbyLogo from "../images/gatsby-icon.png";
-import bulmaLogo from "../images/bulma-logo.png";
-import ProfilePhoto from "../images/profile.jpg";
-import Navbar from "./navbar";
-
 import { Link, animateScroll as scroll } from "react-scroll";
 
 const Header = ({ heroFootFixed, heroFootSize }) => {
