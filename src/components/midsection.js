@@ -16,7 +16,7 @@ const Midsection = () => {
           <div className="container">
             <div className="column is-12 about-me">
               <h1 className="title has-text-centered section-title">
-                Sobre mim
+                About Me
               </h1>
             </div>
             <div className="columns is-multiline">
@@ -25,38 +25,37 @@ const Midsection = () => {
                 data-aos="fade-right"
               >
                 <p>
-                  Sempre tive uma paixão por tecnologia e computadores, antes
-                  mesmo de começar minha faculdade, no final do primeiro ano do
-                  meu curso de sistemas de informação, comecei minha carreira
-                  como desenvolvedor android(java), onde criei um aplicativo
-                  para a minha faculdade.
+                  I always had a passion for technology and computers, even
+                  before i started college, at the final of the first year of
+                  information systems course, i started my carrer as android
+                  developer(java), where i made an app for my college.
                   <br />
-                  Atualmente estou trabalhando com projetos Fullstack que
-                  incluem Nodejs, Angular 2,Vuejs, MongoDB. Já fiz projetos
-                  usando React, React Native, Ionic, e Flutter. No momento estou
-                  desenvolvendo um trabalho de conclusão de curso, utilizando
-                  Dotnet Core e Flutter. Utilizo minha experiência com as demais
-                  tecnologias, não só para criar sistemas bonitos e bem feitos,
-                  mas feitos da maneira a qual trará resultados.
+                  Nowadays i am working with Fullstack projects including
+                  Nodejs, Angular 2, Vuejs, MongoDB. I already made projects
+                  using React, React Native, Ionic and Flutter. At the moment i
+                  am developing a bachelor final project, using Dotnet Core and
+                  Flutter. I use my experience with others technologies, not
+                  only to create beautiful systems and well done, but in a
+                  manner to make results too.
                 </p>
                 <br />
                 <div className="is-divider"></div>
                 <div className="columns about-links">
                   <div className="column">
                     <p className="heading">
-                      <strong>Meu Telefone</strong>
+                      <strong>My Phone Number (Brazil)</strong>
                     </p>
-                    <p className="subheading">(11) 97762-4811</p>
+                    <p className="subheading">+55 (11) 97762-4811</p>
                   </div>
                   <div className="column">
                     <p className="heading">
-                      <strong>Me envie um Email</strong>
+                      <strong>Email Me</strong>
                     </p>
                     <p className="subheading">baissousa.guilherme@gmail.com</p>
                   </div>
                   <div className="column">
                     <p className="heading">
-                      <strong>Meu Linkedin</strong>
+                      <strong>My Linkedin</strong>
                     </p>
                     <p className="subheading">
                       <a
@@ -93,19 +92,31 @@ const Midsection = () => {
             >
               <div className="column is-12 about-me">
                 <h1 className="title has-text-centered section-title">
-                  Ver meu currículo
+                  See My CV
                 </h1>
               </div>
               <div className="column is-10 has-text-centered is-offset-1">
                 <h2 className="subtitle">
-                  Para mais informações sobre mim, veja o meu currículo.
+                  For more information about me, see my CV.
                 </h2>
-                <a href="https://docs.google.com/document/d/1L5cTqDj84udHUadSqkwi6QZCConvurnO0Dql8AcnkDQ/edit?usp=sharing">
-                  <button className="button">
-                    Ver Currículo&emsp;
-                    <i className="fad fa-download fa-lg"></i>
-                  </button>
-                </a>
+                <div className="columns is-multiline">
+                  <div className="column is-12">
+                    <a href="https://docs.google.com/document/d/1L5cTqDj84udHUadSqkwi6QZCConvurnO0Dql8AcnkDQ/edit?usp=sharing">
+                      <button className="button">
+                        Meu CV - Português&emsp;
+                        <i className="fad fa-download fa-lg"></i>
+                      </button>
+                    </a>
+                  </div>
+                  <div className="column is-12">
+                    <a href="https://docs.google.com/document/d/1L5cTqDj84udHUadSqkwi6QZCConvurnO0Dql8AcnkDQ/edit?usp=sharing">
+                      <button className="button">
+                        My CV - English&emsp;
+                        <i className="fad fa-download fa-lg"></i>
+                      </button>
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

@@ -52,7 +52,7 @@ const Header = ({ heroFootFixed, heroFootSize }) => {
                   smooth={true}
                   duration={500}
                 >
-                  Sobre mim
+                  About Me
                 </Link>
               </div>
 
@@ -64,7 +64,7 @@ const Header = ({ heroFootFixed, heroFootSize }) => {
                   smooth={true}
                   duration={500}
                 >
-                  Meus Trabalhos
+                  My Works
                 </Link>
               </div>
             </div>
@@ -78,10 +78,10 @@ const Header = ({ heroFootFixed, heroFootSize }) => {
           }}
         >
           <div className="container has-text-centered">
-            <h1 className="subtitle">Olá, sou o</h1>
+            <h1 className="subtitle">Hi, i am</h1>
             <h2 className="title">Guilherme Bais</h2>
             <h1 className="subtitle profession">
-              Desenvolvedor Fullstack e Mobile
+              Fullstack And Mobile Developer
             </h1>
           </div>
         </div>
@@ -113,7 +113,7 @@ const Header = ({ heroFootFixed, heroFootSize }) => {
                       smooth={true}
                       duration={500}
                     >
-                      Sobre mim
+                      About Me
                     </Link>
                   </li>
 
@@ -125,7 +125,7 @@ const Header = ({ heroFootFixed, heroFootSize }) => {
                       smooth={true}
                       duration={500}
                     >
-                      Meus Trabalhos
+                      My Works
                     </Link>
                   </li>
                 </ul>

@@ -7,7 +7,7 @@ import Emoji from "./emoji";
 const Footer = () => (
   <div className="footer">
     <p>
-      <strong className="white">Criado Por</strong> Guilherme Bais Sousa.
+      <strong className="white">Made By</strong> Guilherme Bais Sousa.
     </p>
   </div>
 );

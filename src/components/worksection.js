@@ -16,7 +16,7 @@ export default class WorkSection extends Component {
           >
             <div className="column is-12">
               <h1 className="title has-text-centered section-title">
-                Meus Trabalhos
+                My Works
               </h1>
             </div>
             {JSONWorks.content.map(json => (
