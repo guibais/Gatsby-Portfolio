@@ -101,7 +101,7 @@ const Midsection = () => {
                 </h2>
                 <div className="columns is-multiline">
                   <div className="column is-12">
-                    <a href="https://docs.google.com/document/d/1L5cTqDj84udHUadSqkwi6QZCConvurnO0Dql8AcnkDQ/edit?usp=sharing">
+                    <a href="https://docs.google.com/document/d/16KKKAVEDKSufoLJNkOpF_8Caup_KWm3mff5AMbmKkZk/edit?usp=sharing">
                       <button className="button">
                         Meu CV - Português&emsp;
                         <i className="fad fa-download fa-lg"></i>
