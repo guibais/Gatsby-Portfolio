@@ -82,7 +82,7 @@ npm install
 
 ## Contact
 
-Your Name - [Guilherme Bais]([linkedin-url]) - baissousa.guilherme@gmail.com
+Guilherme Bais Sousa - [Guilherme Bais]([linkedin-url]) - baissousa.guilherme@gmail.com
 
 Project Link: [https://github.com/guibais/Gatsby-Portfolio](https://github.com/guibais/Gatsby-Portfolio)
 
