@@ -72,12 +72,22 @@ const Midsection = () => {
                 className="column is-6 right-image has-text-centered"
                 data-aos="fade-left"
               >
-                <img
-                  className="is-rounded"
-                  src={ProfileImg}
-                  style={{ height: "40vh" }}
-                  alt=""
-                />
+                <div
+                  class="LI-profile-badge"
+                  data-version="v1"
+                  data-size="medium"
+                  data-locale="pt_BR"
+                  data-type="vertical"
+                  data-theme="light"
+                  data-vanity="guibais"
+                >
+                  <a
+                    class="LI-simple-link"
+                    href="https://br.linkedin.com/in/guibais?trk=profile-badge"
+                  >
+                    Gui Bais
+                  </a>
+                </div>
               </div>
             </div>
           </div>
